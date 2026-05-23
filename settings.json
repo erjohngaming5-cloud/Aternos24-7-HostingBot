@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SoyaMilk-Dtpg.aternos.me:50731",
+    "ip": "SoyaMilk-Dtpg.aternos.me:",
     "port": 50731,
     "version": "",
     "try-creative": false
