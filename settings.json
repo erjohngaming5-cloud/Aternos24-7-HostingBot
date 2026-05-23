@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "SoyaMilk-Dtpg.aternos.me:50731",
+    "port": 50731,
     "version": "",
     "try-creative": false
   },
